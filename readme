@@ -1,0 +1,7 @@
+cdn for image/video
+
+used for github blog image/video storage.
+insert the following text in github blog markdown:
+![text](https://cdn.jsdelivr.net/gh/${username}/${repository}@${branch}/${dir}/${pic})
+
+different branches can be used for various purposes. 
